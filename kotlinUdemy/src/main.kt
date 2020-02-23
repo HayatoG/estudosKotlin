@@ -1,5 +1,7 @@
-
 fun main() {
-    println(hello2("Guilherme"))
-    println("Resultado da soma:"+soma(1,2))
+
+    println(calcBonus("Coordenador", 1000f))
+    println(calcBonus("Gerente Junior", 30000f))
+    println(calcBonus("Gerente Sênior", 50000f))
+
 }
