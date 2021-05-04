@@ -12,7 +12,7 @@ fun hello (nome: String) : String{
     return "Olá meu amigo $nome"
 }
 
-class aula05 {
+class aula18 {
     fun aula() {
 
         // Trabalhando com funções

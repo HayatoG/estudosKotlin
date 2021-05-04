@@ -11,7 +11,7 @@
  * Char     ?
  */
 
-class aula02 {
+class aula15 {
     fun aula() {
         println("Double: Max: " + Double.MAX_VALUE + " - Double: " + Double.MIN_VALUE)
         println("Float: Max: " + Float.MAX_VALUE + " - Float: " + Float.MIN_VALUE)

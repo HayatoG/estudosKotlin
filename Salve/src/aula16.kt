@@ -1,4 +1,4 @@
-class aula03 {
+class aula16 {
     fun aula() {
 
         // Variáveis mutáveis - Podem mudar o valor atribuído
